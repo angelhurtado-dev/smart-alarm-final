@@ -51,7 +51,7 @@ classDiagram
 
     ### 🧠 Paso 6: La Justificación (¡Muy importante para la nota!)
 
-El profesor puso en mayúsculas que el diagrama debe estar **razonado**. Así que debajo del código que acabas de pegar, añade esta explicación para que vea que entiendes lo que has hecho:
+El profesor puso en mayúsculas que el diagrama debe estar **razonado**. Así que debajo del código que acabas de pegar, añade esta explicación para que vea que entiendes lo que has hecho:´´´
 
 ```markdown
 ### Justificación del Diseño Orientado a Objetos
@@ -64,4 +64,4 @@ He decidido estructurar la lógica en tres clases principales para cumplir con e
 
 **Relaciones:**
 * Existe una relación de **Composición** entre `AlarmManager` y `Alarm` porque el gestor "contiene" múltiples alarmas.
-* Existe una relación de **Asociación** entre `Alarm` y `MathChallenge` porque la alarma necesita interactuar con el reto para detenerse.
+* Existe una relación de **Asociación** entre `Alarm` y `MathChallenge` porque la alarma necesita interactuar con el reto para detenerse.´´´
